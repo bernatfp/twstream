@@ -1,0 +1,17 @@
+{
+  "author": "Bernat Fages Pernias <bernatfp@gmail.com>",
+  "name": "twstream",
+  "description": "A tiny wrapper between your app and the Twitter Streaming API, to forget all the boilerplate related to the request",
+  "version": "0.0.0",
+  "main" : "twstream.js",
+  "homepage": "https://github.com/bernatf/twstream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bernatf/twstream.git"
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
